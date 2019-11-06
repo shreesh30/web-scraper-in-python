@@ -1,1 +1,1 @@
-web: gunicorn protein.wsgi 
+web: gunicorn api.wsgi 
